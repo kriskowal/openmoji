@@ -1,0 +1,20 @@
+
+
+
+
+
+turtle
+tiger
+cheetah
+cow
+leopard
+
+skintone1
+skintone2
+
+skintones
+  red hair component
+  blond person
+
+
+
