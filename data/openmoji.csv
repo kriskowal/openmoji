@@ -2022,9 +2022,9 @@ emoji,hexcode,group,subgroups,annotation,tags,openmoji_tags,openmoji_author,open
 🐉,1F409,animals-nature,animal-reptile,dragon,fairy tale,"fire, fly",Selina Bauder,2018-04-18,,,,,1,2748
 🦕,1F995,animals-nature,animal-reptile,sauropod,"brachiosaurus, brontosaurus, diplodocus",dinosaur,Selina Bauder,2018-04-18,,,,,5,2749
 🦖,1F996,animals-nature,animal-reptile,T-Rex,"t-rex, tyrannosaurus rex",dinosaur,Selina Bauder,2018-04-18,,,,,5,2750
-🐳,1F433,animals-nature,animal-marine,spouting whale,"face, spouting, whale","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2751
-🐋,1F40B,animals-nature,animal-marine,whale,whale,"swim, animal, water",Selina Bauder,2018-04-18,,,,,1,2752
-🐬,1F42C,animals-nature,animal-marine,dolphin,flipper,"swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2753
+🐳,1F433,animals-nature,animal-marine,spouting whale,"face, spouting, whale","swim, animal, water, cetacean",Selina Bauder,2018-04-18,,,,,0.6,2751
+🐋,1F40B,animals-nature,animal-marine,whale,whale,"whale, swim, animal, water, cetacean",Selina Bauder,2018-04-18,,,,,1,2752
+🐬,1F42C,animals-nature,animal-marine,dolphin,flipper,"swim, animal, water, cetacean",Selina Bauder,2018-04-18,,,,,0.6,2753
 🐟️,1F41F,animals-nature,animal-marine,fish,"pisces, zodiac","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2755
 🐠,1F420,animals-nature,animal-marine,tropical fish,"fish, tropical","swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2756
 🐡,1F421,animals-nature,animal-marine,blowfish,fish,"swim, animal, water",Selina Bauder,2018-04-18,,,,,0.6,2757
